@@ -1,17 +1,25 @@
-# CiviCare – Civic Issue Reporting System
+# CiviCare – Water Issue Management System
 
 ## Overview
-CiviCare is a web-based civic issue reporting system that enables citizens to report public problems such as potholes, garbage collection issues, water leakage, damaged roads, and streetlight failures. The platform helps authorities manage and resolve complaints efficiently.
+CiviCare is a web-based Water Issue Management System that enables citizens to report water-related problems in their locality. The platform helps municipal authorities receive, manage, and resolve complaints efficiently while allowing users to track the status of their reports.
 
 ## Features
 - User Registration and Login
-- Report Civic Issues
-- Upload Images
+- Report Water-Related Issues
+- Upload Images of the Issue
 - Track Complaint Status
 - Admin Dashboard
-- Complaint Management
+- Complaint Verification and Management
+- Update Complaint Status
 - Secure Authentication
-- Responsive User Interface
+
+## Water Issues Covered
+- Water Leakage
+- Pipe Burst
+- No Water Supply
+- Low Water Pressure
+- Water Overflow
+- Water Contamination
 
 ## Technologies Used
 - Java
@@ -27,8 +35,13 @@ CiviCare is a web-based civic issue reporting system that enables citizens to re
 2. Import the project into Eclipse.
 3. Configure Apache Tomcat.
 4. Create the MySQL database.
-5. Run the project on the server.
+5. Run the application.
+
+## Future Enhancements
+- Email/SMS notifications
+- Location-based issue reporting
+- Mobile application support
+- Analytics dashboard
 
 ## Author
 **Purva Pawar**
-
